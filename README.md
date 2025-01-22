@@ -47,6 +47,7 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 
 ## Dashboard and Visualization
  > After transforming my data with python, I created dashboard to uncover insight into average salary by education, age group, work experience, and Top 5 industries by salary.
+
 <img width="671" alt="Salary Trend dashboard" src="https://github.com/user-attachments/assets/921ea5c4-9de7-47e7-b90e-bf454f72cd7d" />
 
 ## Insights
