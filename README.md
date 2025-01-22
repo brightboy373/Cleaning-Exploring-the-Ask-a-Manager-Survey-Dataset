@@ -1,4 +1,4 @@
-# Cleaning-Exploring-the-Ask-a-Manager-Survey-Dataset
+# Salary Trends and Disparities (A comprehensive 2021 Data)
 ## Dataset Description
 The dataset, titled "Ask a Manager Salary Survey 2021 (Responses)," is a real-world collection of survey data featuring 17 variables focused on salaries and workplace demographics. Sourced from AskAManager.org, the data primarily reflects responses from the United States, with additional inputs from international participants.
 
