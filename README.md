@@ -26,27 +26,26 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 + Which industry pay the most?
 + Which Educational Qualification earns the most salary?
 + What is the most popular industry?
-+ Which Country gives the most monetary_bonuses?
-+ How does gender influences salary?
-+ How do factors like race and education level correlate with salary?
-+ How salaries compare for the same role in different location?
++ How does gender vary by educational qualification?
 + How do work year experience influences salary?
-+ Which country has more work year experience?
+  
 
 
 ## Data Wrangling:
++ Imported Libraries needed like seaborn, pandas, numpy, matplotlib.
 + Handling Encoding Errors: The first hurdle was an encoding issue. I resolved it by using the latin-1 encoding to ensure proper reading of the data.
 + Renaming Irregular Columns: The column names were inconsistent, so I standardized them using Python’s rename() function with a dictionary argument. Additionally, I applied the lower() function to make them lowercase and strip() to remove trailing spaces.
 + Exploring Categories: Using value_counts(), I examined the distribution of categories in variables like “Country” and “Job title.” This step helped me identify inconsistencies, such as duplicate entries (e.g., “United States”, “US”. “USA”, “UK”, “United Kingdom”, “United kinkdom”), and regroup them for clarity to the standard name.
++ Defined and handled the inconsistent data type assigned to my columns by assessing the data programmatically using the info() function.
 + In the race column, I regrouped the column to multiracial, Biracial, and moniracial for easy readability. Categories with one race was named monoracial, Categories with two races was named Biracial, and categories with more than two races was renamed multiracial.
-+ I changed the salary column from string to float using replace function to remove the commas. Then I converted all the salary to USD. Then I filled in null values before converting to integer.
-+ The monetary compensation, I converted it to USD using the current exchange rate, using lamba function.
-+ I recategorized my work_year_exeperience column for easy understanding eg 41yearsormore to 41years+.
-+ I dropped unnecessary columns such as other_job_ context which was not needed for my analysis.
++ Changed the salary column from string to float using replace function to remove the commas. Then I converted all the salary to USD. Then I filled in null values before converting the data type from string to integer. I handled outlier in our salary column by calculating the interquartile range.
++ The monetary compensation, I converted it to USD using the current exchange rate, using lamba function. Then I also filled in null values before converting to integer.
++ Recategorozed some rows in my work_year_exeperience column for easy understanding eg 41yearsormore to 41years+.
++ I dropped unnecessary columns in my datafrom such as other_job_ context which was not needed for my analysis.
 - <a href= "https://github.com/brightboy373/Cleaning-Exploring-the-Ask-a-Manager-Survey-Dataset/blob/main/Survey%20data%20Analysis%20Project.ipynb">Survey data Analysis project</a>
 
 ## Dashboard and Visualization
- > After transforming my data with python, I created dashboard to uncover insight into average salary by education, age group, work experience, and Top 5 industries by salary.
+ > After transforming my data with python, I created dashboard with Power BI to uncover insight into average salary by education, age group, work experience, and Top 5 industries by salary.
 
 <img width="671" alt="Salary Trend dashboard" src="https://github.com/user-attachments/assets/921ea5c4-9de7-47e7-b90e-bf454f72cd7d" />
 
@@ -59,5 +58,5 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 > There is gender imbalance in education levels, particularly in advanced degrees like PhDs and professional degrees, where men are more represented. However, women lead in the Master's degree category, suggesting their pursuit of higher education. The low representation of non-binary individuals and undisclosed gender groups across all education levels underscores the need for inclusivity and opportunities for these groups to bridge educational gaps.
 
 ## Recommendation
-> There are more women than men in educational levels which might indicate that more women ate in the educational sector than men. This should be an awakening for men to participate more in education activities to bring balance to the society. Parents should encourage their male children to pursue academic excellence
+> There are more women than men in educational levels which might indicate that more women ate in the educational sector than men. This should be an awakening for men to participate more in education activities to bring balance to the society. Parents should encourage their male children to pursue academic excellence.
 
