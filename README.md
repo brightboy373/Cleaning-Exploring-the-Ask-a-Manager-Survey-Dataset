@@ -45,3 +45,7 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 + I dropped unnecessary columns such as other_job_ context which was not needed for my analysis.
 - <a href= "https://github.com/brightboy373/Cleaning-Exploring-the-Ask-a-Manager-Survey-Dataset/blob/main/Survey%20data%20Analysis%20Project.ipynb">Survey data Analysis project</a>
 
+## Dashboard and Visualization
+ > I created dashboard to uncover insight to average salary by education, age group, work experience, and Top 5 industries by salary.
+<img width="671" alt="Salary Trend dashboard" src="https://github.com/user-attachments/assets/921ea5c4-9de7-47e7-b90e-bf454f72cd7d" />
+
