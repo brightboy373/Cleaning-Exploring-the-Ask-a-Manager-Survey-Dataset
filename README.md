@@ -14,5 +14,8 @@ The dataset, titled "Ask a Manager Salary Survey 2021 (Responses)," is a real-wo
 + 'Job Title' tells us the job title of the workers.
 
 ## Project Objective: 
-Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I performed data transformation and exploratory analysis with Python. Additionally, I utilized Power BI for advanced visualization, uncovering insights on how salary varies across age groups, work experience, and industry
+Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I performed data transformation and exploratory analysis with Python. Additionally, I utilized Power BI for advanced visualization, uncovering insights on how salary varies across age groups, work experience, and industry.
 
+## Tools: 
+Python (Cleaning and exploratory analysis)
+Power BI (Data Visualization)
