@@ -1,5 +1,5 @@
 # Cleaning-Exploring-the-Ask-a-Manager-Survey-Dataset
-Dataset Description
+## Dataset Description
 The dataset, titled "Ask a Manager Salary Survey 2021 (Responses)," is a real-world collection of survey data featuring 17 variables focused on salaries and workplace demographics. Sourced from AskAManager.org, the data primarily reflects responses from the United States, with additional inputs from international participants.
 
 + 'Gender' tells us the gender of workers.
@@ -13,7 +13,7 @@ The dataset, titled "Ask a Manager Salary Survey 2021 (Responses)," is a real-wo
 + 'Race' tells us the race of the workers.
 + 'Job Title' tells us the job title of the workers.
 
-## Project Objective: 
+## Project Description: 
 Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I performed data transformation and exploratory analysis with Python. Additionally, I utilized Power BI for advanced visualization, uncovering insights on how salary varies across age groups, work experience, and industry.
 
 ## Tools: 
