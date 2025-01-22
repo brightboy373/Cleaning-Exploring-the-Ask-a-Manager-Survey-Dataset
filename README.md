@@ -42,7 +42,8 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 + The monetary compensation, I converted it to USD using the current exchange rate, using lamba function. Then I also filled in null values before converting to integer.
 + Recategorozed some rows in my work_year_exeperience column for easy understanding eg 41yearsormore to 41years+.
 + I dropped unnecessary columns in my datafrom such as other_job_ context which was not needed for my analysis.
-- <a href= "https://github.com/brightboy373/Cleaning-Exploring-the-Ask-a-Manager-Survey-Dataset/blob/main/Survey%20data%20Analysis%20Project.ipynb">Data Cleaning and Explorationt</a>
+
+<a href= "https://github.com/brightboy373/Cleaning-Exploring-the-Ask-a-Manager-Survey-Dataset/blob/main/Survey%20data%20Analysis%20Project.ipynb">Data Cleaning and Exploration</a>
 
 
 ## Dashboard and Visualization
