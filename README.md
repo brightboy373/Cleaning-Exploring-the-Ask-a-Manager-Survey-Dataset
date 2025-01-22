@@ -21,7 +21,7 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 
 + Power BI (Data Visualization)
 
-# Key Question(S) for Analysis:
+## Key Question(S) for Analysis:
 + How does age group influences salary?
 + Which industry pay the most?
 + Which Educational Qualification earns the most salary?
