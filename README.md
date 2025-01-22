@@ -18,4 +18,5 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 
 ## Tools: 
 Python (Cleaning and exploratory analysis)
+
 Power BI (Data Visualization)
