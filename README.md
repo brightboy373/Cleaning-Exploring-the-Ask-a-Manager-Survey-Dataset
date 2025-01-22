@@ -57,7 +57,7 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 
 + There is an imbalance in gender distribution in education levels, particularly in advanced degrees like PhDs and professional degrees, where men are more represented. However, women lead in the Master's degree category, suggesting their pursuit of higher education. The low representation of non-binary individuals and undisclosed gender groups across all education levels highlighting the need for inclusivity and opportunities for these groups to bridge educational gaps.
 
-+ The science and technology sector offers the highest salary opportunities, making tge fastest growing industry in this era.
++ The science and technology sector offers the highest salary opportunities, making it the fastest growing industry in this era.
 
 ## Recommendation
 + Education and Salary: Individuals with higher educational qualifications, such as Professional degrees and PhDs, earn more on average. Encouraging and supporting individuals to pursue advanced education could improve earning potential. This is especially relevant for industries requiring specialized skills.
