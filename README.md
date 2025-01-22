@@ -49,3 +49,14 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
  > I created dashboard to uncover insight to average salary by education, age group, work experience, and Top 5 industries by salary.
 <img width="671" alt="Salary Trend dashboard" src="https://github.com/user-attachments/assets/921ea5c4-9de7-47e7-b90e-bf454f72cd7d" />
 
+## Insights
+
+> The survey datasets highlight a clear relationship between salary, age group, and work experience. The 45-54 age group earns the highest average salary, reflecting their peak earning potential, while the under 18 age group has the lowest, likely due to limited work experience and entry-level roles. Similarly, work experience significantly impacts earnings, with those having 21-30 years of experience earning the most, followed by 31-40 years of experience. Interestingly, salary is likely to be influenced more by work experience than age. The slight decline in salary for the latter group may indicate that earnings begin to plateau or decrease as individuals approach retirement.
+
+> Individuals with Professional degrees have the highest average salaries, closely followed by those with PhDs, emphasizing the financial benefits of advanced education. In contrast, individuals with only a high school education earn the least on average, reflecting the influence of educational attainment on earning potential. This trend highlights the significant role of higher education in unlocking better-paying opportunities, underscoring its value in career advancement and income growth.
+
+> There is gender imbalance in education levels, particularly in advanced degrees like PhDs and professional degrees, where men are more represented. However, women lead in the Master's degree category, suggesting their pursuit of higher education. The low representation of non-binary individuals and undisclosed gender groups across all education levels underscores the need for inclusivity and opportunities for these groups to bridge educational gaps.
+
+## Recommendation
+> There are more women than men in educational levels which might indicate that more women ate in the educational sector than men. This should be an awakening for men to participate more in education activities to bring balance to the society. Parents should encourage their male children to pursue academic excellence
+
