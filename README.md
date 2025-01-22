@@ -32,7 +32,7 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 
 
 ## Data Wrangling:
-+ Imported Libraries needed like seaborn, pandas, numpy, matplotlib.
++ Imported Libraries needed like seaborn, pandas, numpy, and matplotlib.
 + Handling Encoding Errors: The first hurdle was an encoding issue. I resolved it by using the latin-1 encoding to ensure proper reading of the data.
 + Renaming Irregular Columns: The column names were inconsistent, so I standardized them using Python’s rename() function with a dictionary argument. Additionally, I applied the lower() function to make them lowercase and strip() to remove trailing spaces.
 + Exploring Categories: Using value_counts(), I examined the distribution of categories in variables like “Country” and “Job title.” This step helped me identify inconsistencies, such as duplicate entries (e.g., “United States”, “US”. “USA”, “UK”, “United Kingdom”, “United kinkdom”), and regroup them for clarity to the standard name.
