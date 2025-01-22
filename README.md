@@ -43,3 +43,5 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 + The monetary compensation, I converted it to USD using the current exchange rate, using lamba function.
 + I recategorized my work_year_exeperience column for easy understanding eg 41yearsormore to 41years+.
 + I dropped unnecessary columns such as other_job_ context which was not needed for my analysis.
+
+
