@@ -21,6 +21,19 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 
 + Power BI (Data Visualization)
 
+# Key Question(S) for Analysis:
++ How does age group influences salary?
++ Which industry pay the most?
++ Which Educational Qualification earns the most salary?
++ What is the most popular industry?
++ Which Country gives the most monetary_bonuses?
++ How does gender influences salary?
++ How do factors like race and education level correlate with salary?
++ How salaries compare for the same role in different location?
++ How do work year experience influences salary?
++ Which country has more work year experience?
+
+
 ## Data Wrangling:
 + Handling Encoding Errors: The first hurdle was an encoding issue. I resolved it by using the latin-1 encoding to ensure proper reading of the data.
 + Renaming Irregular Columns: The column names were inconsistent, so I standardized them using Python’s rename() function with a dictionary argument. Additionally, I applied the lower() function to make them lowercase and strip() to remove trailing spaces.
