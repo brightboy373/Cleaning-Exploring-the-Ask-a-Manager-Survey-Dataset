@@ -12,6 +12,8 @@ The dataset, titled "Ask a Manager Salary Survey 2021 (Responses)," is a real-wo
 + 'Monetary compensation' tells us the bonuses or overtime in an average year.
 + 'Race' tells us the race of the workers.
 + 'Job Title' tells us the job title of the workers.
+## Dataset
+<a href= "https://github.com/brightboy373/Cleaning-Exploring-the-Ask-a-Manager-Survey-Dataset/blob/main/Ask%20A%20Manager%20Salary%20Survey%202021.csv">Ask a Manager Survey 2021(Respones)</a>
 
 ## Project Description: 
 Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I performed data transformation and exploratory analysis with Python. Additionally, I utilized Power BI for advanced visualization, uncovering insights on how salary varies across age groups, work experience, and industry.
