@@ -41,8 +41,8 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 + Exploring Categories: Using  `value_counts()`, I examined the distribution of categories in variables like “Country” and “Job title.” This step helped me identify inconsistencies, such as duplicate entries (e.g., “United States”, “US”. “USA”, “UK”, “United Kingdom”, “United kinkdom”), and regroup them for clarity to the standard name.
 + Defined and handled the inconsistent data type assigned to my columns by assessing the data programmatically using the  `info()` function.
 + In the race column, I regrouped the column to multiracial, Biracial, and moniracial for easy readability. Categories with one race was named monoracial, Categories with two races was named Biracial, and categories with more than two races was renamed multiracial.
-+ Changed the salary column from string to float using replace function to remove the commas. Then I converted all the salary to USD. Then I filled in null values before converting the data type from string to integer. I handled outlier in our salary column by calculating the interquartile range.
-+ The monetary compensation, I converted it to USD using the current exchange rate, using lamba function. Then I also filled in null values before converting to integer.
++ Changed the salary column from string to float using replace function to remove the commas. Then I converted all the salary to USD using the lambda function. Then I filled in null values with the mean before converting the data type from string to integer. I handled outlier in our salary column by calculating the interquartile range.
++ The monetary compensation, I converted it to USD using the current exchange rate, using lamba function. Then I also filled in null values with the mean before converting to integer.
 + Recategorized some rows in my work_year_exeperience column for easy understanding eg 41yearsormore to 41years+ using the  `replace` function.
 + I dropped unnecessary columns in my datafrom such as other_job_ context which was not needed for my analysis.
 
