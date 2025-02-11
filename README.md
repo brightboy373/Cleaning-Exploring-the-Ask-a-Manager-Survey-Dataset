@@ -46,7 +46,7 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 + Recategorized some rows in my work_year_exeperience column for easy understanding eg 41yearsormore to 41years+ using the  `replace` function.
 + I dropped unnecessary columns in my datafrom such as other_job_ context which was not needed for my analysis.
 
-<a href= "https://github.com/brightboy373/Cleaning-and-Exploring-the-Ask-a-Manager-Survey-Dataset/blob/main/Survey%20data%20Analysis.ipynb">Data Cleaning and Exploratory Analysis</a>
+<a href= "https://github.com/brightboy373/Cleaning-and-Exploring-the-Ask-a-Manager-Survey-Dataset/blob/main/Survey%20data%20Analysis%20Project.ipynb">Data Cleaning and Exploratory Analysis</a>
 
 
 ## Dashboard and Visualization
