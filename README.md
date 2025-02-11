@@ -48,7 +48,6 @@ Using the dataset titled 'Ask a Manager Salary Survey 2021 (Responses),' I perfo
 
 <a href= "https://github.com/brightboy373/Cleaning-and-Exploring-the-Ask-a-Manager-Survey-Dataset/blob/main/Survey%20data%20Analysis%20Project.ipynb">Data Cleaning and Exploratory Analysis</a>
 
-
 ## Dashboard and Visualization
  > After transforming my data with python, I created dashboard with Power BI to uncover insight into average salary by education, age group, work experience, and Top 5 industries by salary.
 
